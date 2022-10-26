@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syahjamal
-- 👀 I’m interested in Devops, Mobile Deveopment using Flutter & IOT
+- 👀 I’m interested in Devops, Mobile Development using Flutter & IOT
 - 🌱 I’m currently learning Everything
 - 📫 How to reach me sulaimansyahjamal@gmail.com
 
